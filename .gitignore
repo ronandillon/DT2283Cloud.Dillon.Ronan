@@ -26,3 +26,14 @@ www-test/
 
 #old GWT (1.5) created this dir
 .gwt-tmp/
+*.classpath
+*.project
+*.prefs
+*.ico
+*.properties
+LabServlet5.2/.settings/org.eclipse.wst.common.project.facet.core.xml
+LabServlet5.2/src/META-INF/jdoconfig.xml
+LabServlet5.2/src/META-INF/persistence.xml
+LabServlet5.2/war/WEB-INF/appengine-web.xml
+LabServlet5.2/war/WEB-INF/classes/META-INF/jdoconfig.xml
+LabServlet5.2/war/WEB-INF/classes/META-INF/persistence.xml
